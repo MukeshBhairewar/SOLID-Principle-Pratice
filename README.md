@@ -1,0 +1,1 @@
+# LISKOV'S Substitution Principle
